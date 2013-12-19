@@ -1,0 +1,63 @@
+{
+    "id": "862925396",
+    "groups": {
+        "data": [
+            {
+                "name": "Deutsch LA Community Board",
+                "unread": 10,
+                "bookmark_order": 1,
+                "id": "210603772323657"
+            },
+            {
+                "name": "Tribe42",
+                "bookmark_order": 6,
+                "id": "383582601676232"
+            },
+            {
+                "name": "Turkish Technologists in Los Angeles",
+                "unread": 3,
+                "bookmark_order": 7,
+                "id": "172666079488485"
+            },
+            {
+                "name": "Worlize.com",
+                "bookmark_order": 8,
+                "id": "164231346937122"
+            },
+            {
+                "name": "Ex-Animax",
+                "unread": 4,
+                "bookmark_order": 2,
+                "id": "159865150740982"
+            },
+            {
+                "name": "I am from Las Vegas, New Mexico!!!",
+                "unread": 25,
+                "bookmark_order": 4,
+                "id": "108285555916972"
+            },
+            {
+                "name": "Ceren is Recruiting",
+                "unread": 2,
+                "bookmark_order": 5,
+                "id": "121289001265668"
+            },
+            {
+                "name": "I grew up in Las Vegas, New Mexico",
+                "unread": 25,
+                "bookmark_order": 3,
+                "id": "305888922634"
+            },
+            {
+                "name": "UNM Alumni - Greater Los Angeles Area Chapter",
+                "unread": 25,
+                "bookmark_order": 9,
+                "id": "86773313361"
+            }
+        ],
+        "paging": {
+            "next": "https://graph.facebook.com/862925396/groups?icon_size=16&limit=5000&offset=5000&__after_id=86773313361"
+        }
+    }
+}
+Response received in 152 ms

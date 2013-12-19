@@ -1,0 +1,36 @@
+{
+    "id": "862925396",
+    "subscribedto": {
+        "data": [
+            {
+                "name": "Sean Parker",
+                "id": "207996"
+            },
+            {
+                "name": "Sheryl Sandberg",
+                "id": "717545176"
+            },
+            {
+                "name": "Kathy Griffin",
+                "id": "676538569"
+            },
+            {
+                "name": "Mark Zuckerberg",
+                "id": "4"
+            },
+            {
+                "name": "Randi Zuckerberg",
+                "id": "4617"
+            }
+        ],
+        "paging": {
+            "cursors": {
+                "after": "NDYxNw==",
+                "before": "MjA3OTk2"
+            }
+        },
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

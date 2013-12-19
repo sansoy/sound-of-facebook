@@ -1,0 +1,28 @@
+{
+    "id": "862925396",
+    "games": {
+        "data": [
+            {
+                "category": "App page",
+                "name": "Angry Birds",
+                "created_time": "2011-02-18T16:52:03+0000",
+                "id": "314467614927"
+            },
+            {
+                "category": "Games/toys",
+                "name": "Osmos",
+                "created_time": "2011-02-18T16:52:03+0000",
+                "id": "105973089433855"
+            },
+            {
+                "category": "Interest",
+                "name": "Blackjack",
+                "created_time": "2011-02-18T16:52:02+0000",
+                "id": "108419205848513"
+            }
+        ],
+        "paging": {
+            "next": "https://graph.facebook.com/862925396/games?limit=25&offset=25&__after_id=108419205848513"
+        }
+    }
+}

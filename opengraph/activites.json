@@ -1,0 +1,40 @@
+{
+    "id": "862925396",
+    "activities": {
+        "data": [
+            {
+                "category": "Sport",
+                "name": "Badminton",
+                "created_time": "2012-11-19T19:51:37+0000",
+                "id": "112285278784684"
+            },
+            {
+                "category": "Interest",
+                "name": "Computer software",
+                "created_time": "2012-05-30T03:19:04+0000",
+                "id": "107927639228514"
+            },
+            {
+                "category": "Interest",
+                "name": "Computer-Games",
+                "created_time": "2012-05-24T22:13:38+0000",
+                "id": "106049882769224"
+            },
+            {
+                "category": "Sport",
+                "name": "Sailing",
+                "created_time": "2011-05-29T23:29:12+0000",
+                "id": "107733585923064"
+            },
+            {
+                "category": "Interest",
+                "name": "Untitled",
+                "created_time": "2011-05-24T04:34:17+0000",
+                "id": "218299628198962"
+            }
+        ],
+        "paging": {
+            "next": "https://graph.facebook.com/862925396/activities?limit=25&offset=25&__after_id=218299628198962"
+        }
+    }
+}

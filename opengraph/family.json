@@ -1,0 +1,25 @@
+{
+    "id": "862925396",
+    "family": {
+        "data": [
+            {
+                "name": "Mehves Akyatan Gulseven",
+                "relationship": "family member",
+                "id": "524134614"
+            },
+            {
+                "name": "Ayca Akyatan",
+                "relationship": "cousin",
+                "id": "669602310"
+            },
+            {
+                "name": "çiğdem Menzilcioğlu",
+                "relationship": "family member",
+                "id": "525879750"
+            }
+        ],
+        "paging": {
+            "next": "https://graph.facebook.com/862925396/family?limit=5000&offset=5000&__after_id=525879750"
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "id": "862925396",
+    "friendlists": {
+        "data": [
+            {
+                "id": "10153520627900397",
+                "name": "Entrepreneur",
+                "list_type": "work"
+            },
+            {
+                "id": "10152164117190397",
+                "name": "GSN",
+                "list_type": "work"
+            },
+            {
+                "id": "10150803056305397",
+                "name": "Marina del Rey, California Area",
+                "list_type": "current_city"
+            },
+            {
+                "id": "10150803056300397",
+                "name": "Robertson High",
+                "list_type": "education"
+            },
+            {
+                "id": "10151216730465397",
+                "name": "Deutsch Inc.",
+                "list_type": "work"
+            },
+            {
+                "id": "10150803329215397",
+                "name": "Massachusetts Institute of Technology (MIT)",
+                "list_type": "education"
+            },
+            {
+                "id": "10150803056290397",
+                "name": "Sabertooth Interactive",
+                "list_type": "work"
+            },
+            {
+                "id": "10150803056285397",
+                "name": "Family",
+                "list_type": "family"
+            },
+            {
+                "id": "10150803056265397",
+                "name": "Close Friends",
+                "list_type": "close_friends"
+            },
+            {
+                "id": "10151225728545397",
+                "name": "Entrepreneur",
+                "list_type": "work"
+            },
+            {
+                "id": "10150889079975397",
+                "name": "Deutsch Inc.",
+                "list_type": "work"
+            },
+            {
+                "id": "10150886261895397",
+                "name": "Acquaintances",
+                "list_type": "acquaintances"
+            },
+            {
+                "id": "10150804116285397",
+                "name": "Game Show Network",
+                "list_type": "work"
+            }
+        ],
+        "paging": {
+            "next": "https://graph.facebook.com/862925396/friendlists?limit=5000&offset=5000&__after_id=10150804116285397"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "id": "862925396",
+    "television": {
+        "data": [
+            {
+                "category": "Community",
+                "name": "Datemares",
+                "created_time": "2012-04-04T18:31:11+0000",
+                "id": "380652545300943"
+            },
+            {
+                "category": "App page",
+                "name": "Take This Lollipop",
+                "created_time": "2011-10-29T04:27:13+0000",
+                "id": "127018307401855"
+            },
+            {
+                "category": "Tv network",
+                "name": "Hub Network",
+                "created_time": "2011-05-10T02:21:23+0000",
+                "id": "119249468124144"
+            },
+            {
+                "category": "Community",
+                "name": "Help Nathan Buy Firefly",
+                "created_time": "2011-02-24T05:49:31+0000",
+                "id": "198967863462576"
+            },
+            {
+                "category": "Tv show",
+                "name": "Dexter",
+                "created_time": "2011-02-18T16:45:02+0000",
+                "id": "15526475270"
+            },
+            {
+                "category": "Tv show",
+                "name": "Fringe",
+                "created_time": "2011-02-18T16:45:02+0000",
+                "id": "15576613667"
+            },
+            {
+                "category": "Tv show",
+                "name": "CSI",
+                "created_time": "2011-02-18T16:45:02+0000",
+                "id": "108534179168486"
+            },
+            {
+                "category": "Tv show",
+                "name": "Futurama",
+                "created_time": "2010-07-04T02:35:26+0000",
+                "id": "9588466619"
+            },
+            {
+                "category": "Tv show",
+                "name": "Keeping Up Appearances",
+                "created_time": "2008-12-16T23:41:38+0000",
+                "id": "12176517236"
+            }
+        ],
+        "paging": {
+            "next": "https://graph.facebook.com/862925396/television?limit=25&offset=25&__after_id=12176517236"
+        }
+    }
+}

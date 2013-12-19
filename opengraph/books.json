@@ -1,0 +1,34 @@
+{
+    "id": "862925396",
+    "books": {
+        "data": [
+            {
+                "category": "Book",
+                "name": "I, Robot",
+                "created_time": "2011-02-18T16:46:28+0000",
+                "id": "111803208831852"
+            },
+            {
+                "category": "Book",
+                "name": "The Fountains of Paradise",
+                "created_time": "2011-02-18T16:46:28+0000",
+                "id": "109508869068613"
+            },
+            {
+                "category": "Book",
+                "name": "Flowers for Algernon",
+                "created_time": "2011-02-18T16:46:27+0000",
+                "id": "105674356132816"
+            },
+            {
+                "category": "Book",
+                "name": "Rendevous with Rama",
+                "created_time": "2011-02-18T16:46:27+0000",
+                "id": "110860192275063"
+            }
+        ],
+        "paging": {
+            "next": "https://graph.facebook.com/862925396/books?limit=25&offset=25&__after_id=110860192275063"
+        }
+    }
+}

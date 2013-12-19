@@ -1,0 +1,2596 @@
+{
+    "id": "862925396",
+    "home": {
+        "data": [
+            {
+                "id": "694389806_10151925480554807",
+                "from": {
+                    "name": "Banu Menzilcioğlu",
+                    "id": "694389806"
+                },
+                "message": "Halk tv bakın!!! Tam bir rezalet",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/694389806/posts/10151925480554807"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/694389806/posts/10151925480554807"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "status",
+                "status_type": "mobile_status_update",
+                "application": {
+                    "name": "Facebook for iPad",
+                    "namespace": "fbipad_",
+                    "id": "173847642670370"
+                },
+                "created_time": "2013-12-19T18:08:46+0000",
+                "updated_time": "2013-12-19T18:08:46+0000"
+            },
+            {
+                "id": "798763447_10152466631968448",
+                "from": {
+                    "name": "Betty Kim",
+                    "id": "798763447"
+                },
+                "to": {
+                    "data": [
+                        {
+                            "name": "Kevin Kolpien",
+                            "id": "1374021955"
+                        },
+                        {
+                            "name": "Jenny Suh",
+                            "id": "564212786"
+                        }
+                    ]
+                },
+                "message": "i went right at 10am no tickets!!!!!!!!!!!! did anyone else gets tix?????? Kevin Kolpien Jenny Suh",
+                "message_tags": {
+                    "75": [
+                        {
+                            "id": "1374021955",
+                            "name": "Kevin Kolpien",
+                            "type": "user",
+                            "offset": 75,
+                            "length": 13
+                        }
+                    ],
+                    "89": [
+                        {
+                            "id": "564212786",
+                            "name": "Jenny Suh",
+                            "type": "user",
+                            "offset": 89,
+                            "length": 9
+                        }
+                    ]
+                },
+                "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBLj0k18pr3y_Td&w=200&h=200&url=http%3A%2F%2Fmedia.ticketmaster.com%2Fdbimages%2F133250a.jpg&crop",
+                "link": "http://www.ticketmaster.com/event/09004B908DC3426A?fb_action_ids=10152466631968448&fb_action_types=og.recommends&fb_ref=FBKLikeEvent&fb_source=other_multiline&action_object_map=%7B%2210152466631968448%22%3A1437939063084409%7D&action_type_map=%7B%2210152466631968448%22%3A%22og.recommends%22%7D&action_ref_map=%7B%2210152466631968448%22%3A%22FBKLikeEvent%22%7D",
+                "name": "Spiritualized at The Theatre at the Ace on Feb 14, 2014",
+                "description": "on Ticketmaster",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/798763447/posts/10152466631968448"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/798763447/posts/10152466631968448"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "link",
+                "application": {
+                    "name": "Ticketmaster",
+                    "id": "140669015975185"
+                },
+                "created_time": "2013-12-19T18:02:47+0000",
+                "updated_time": "2013-12-19T18:02:47+0000"
+            },
+            {
+                "id": "1533420232_10200988554146076",
+                "from": {
+                    "name": "Heather Somaini",
+                    "id": "1533420232"
+                },
+                "message": "Eat+Drink - January 7 @ Hakkasan Beverly Hills",
+                "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAxG6Pyzhn7AdWa&w=154&h=154&url=http%3A%2F%2Fcdn-images.mailchimp.com%2Fmonkey_rewards%2FMC_MonkeyReward_15.png",
+                "link": "http://eepurl.com/K4KSb",
+                "name": "Eat+Drink - January 7 @ Hakkasan Beverly Hills",
+                "caption": "us6.campaign-archive2.com",
+                "description": "I only have 2 seats left - who is going to GRAB THEM?? Our very first GANG OF 12 dinner happened last night at Mercado Santa Monica and it was excellent!  Our next dinner is stepping it up not just one notch but probably about ten!   We're very excited to work with Hakkasan Beverly Hills to welcome…",
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/1533420232/posts/10200988554146076"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/1533420232/posts/10200988554146076"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "link",
+                "status_type": "shared_story",
+                "application": {
+                    "name": "MailChimp",
+                    "namespace": "mailchimp",
+                    "id": "100265896690345"
+                },
+                "created_time": "2013-12-19T17:59:30+0000",
+                "updated_time": "2013-12-19T17:59:30+0000"
+            },
+            {
+                "id": "862925396_10153671065080397",
+                "from": {
+                    "name": "Sabri Sansoy",
+                    "id": "862925396"
+                },
+                "message": "working on a really cool music based project, which is totally out of my comfort zone.   the whole research exercise is provoking seemingly random observations like all natural drinks from beer to milk have colors that are either white or in the yellow to red range, none that are naturally blue.   another observation is that if i pick an odd number of q-tips i still have an even number of tips to clean each ear with.   same with an even number of picks. ...",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/862925396/posts/10153671065080397"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/862925396/posts/10153671065080397"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "status",
+                "status_type": "mobile_status_update",
+                "created_time": "2013-12-19T17:23:24+0000",
+                "updated_time": "2013-12-19T18:08:03+0000",
+                "likes": {
+                    "data": [
+                        {
+                            "id": "704124886",
+                            "name": "Brenda Opheim Hagel"
+                        },
+                        {
+                            "id": "857580426",
+                            "name": "Peter Komis"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "ODU3NTgwNDI2",
+                            "before": "NzA0MTI0ODg2"
+                        }
+                    }
+                },
+                "comments": {
+                    "data": [
+                        {
+                            "id": "10153671065080397_44922482",
+                            "from": {
+                                "name": "Daren Ham",
+                                "id": "1591302372"
+                            },
+                            "message": "Get some sleep.  It'll make sense in the morning.",
+                            "can_remove": true,
+                            "created_time": "2013-12-19T17:33:58+0000",
+                            "like_count": 1,
+                            "user_likes": true
+                        },
+                        {
+                            "id": "10153671065080397_44922662",
+                            "from": {
+                                "name": "Dave Andrews",
+                                "id": "689326792"
+                            },
+                            "message": "Sounds like someone has stumbled upon a stash of mushrooms. HA!",
+                            "can_remove": true,
+                            "created_time": "2013-12-19T17:44:06+0000",
+                            "like_count": 3,
+                            "user_likes": true
+                        },
+                        {
+                            "id": "10153671065080397_44922798",
+                            "from": {
+                                "name": "Daren Ham",
+                                "id": "1591302372"
+                            },
+                            "message": "^hahahaha",
+                            "can_remove": true,
+                            "created_time": "2013-12-19T17:50:34+0000",
+                            "like_count": 1,
+                            "user_likes": true
+                        },
+                        {
+                            "id": "10153671065080397_44922921",
+                            "from": {
+                                "name": "Peter Komis",
+                                "id": "857580426"
+                            },
+                            "message": "In a gota da vita baby...",
+                            "can_remove": true,
+                            "created_time": "2013-12-19T17:55:40+0000",
+                            "like_count": 1,
+                            "user_likes": true
+                        },
+                        {
+                            "id": "10153671065080397_44923146",
+                            "from": {
+                                "name": "Sabri Sansoy",
+                                "id": "862925396"
+                            },
+                            "message": "I luv u guys!",
+                            "can_remove": true,
+                            "created_time": "2013-12-19T18:08:03+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "NQ==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            },
+            {
+                "id": "25405422_10101202408510755",
+                "from": {
+                    "name": "Luis Aguiluz",
+                    "id": "25405422"
+                },
+                "to": {
+                    "data": [
+                        {
+                            "name": "Brian Jeremy Kupetz",
+                            "id": "1045215327"
+                        },
+                        {
+                            "name": "Ja'mie Russo",
+                            "id": "10808759"
+                        }
+                    ]
+                },
+                "message": "In the \"Biggie\" conference room with Brian Jeremy and Ja'mie. #likeyoucare",
+                "message_tags": {
+                    "37": [
+                        {
+                            "id": "1045215327",
+                            "name": "Brian Jeremy",
+                            "type": "user",
+                            "offset": 37,
+                            "length": 12
+                        }
+                    ],
+                    "54": [
+                        {
+                            "id": "10808759",
+                            "name": "Ja'mie",
+                            "type": "user",
+                            "offset": 54,
+                            "length": 6
+                        }
+                    ]
+                },
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/25405422/posts/10101202408510755"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/25405422/posts/10101202408510755"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "place": {
+                    "id": "195837940434113",
+                    "name": "Chute",
+                    "location": {
+                        "street": "480 2nd Street Suite 302",
+                        "city": "San Francisco",
+                        "state": "CA",
+                        "country": "United States",
+                        "zip": "94107",
+                        "latitude": 37.783195,
+                        "longitude": -122.394254
+                    }
+                },
+                "type": "status",
+                "status_type": "mobile_status_update",
+                "created_time": "2013-12-19T17:17:40+0000",
+                "updated_time": "2013-12-19T17:48:48+0000",
+                "comments": {
+                    "data": [
+                        {
+                            "id": "10101202408510755_15913865",
+                            "from": {
+                                "name": "Julian Smith",
+                                "id": "698982717"
+                            },
+                            "message": "Biggie?   Is Tupac there too?",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T17:48:48+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MQ==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            },
+            {
+                "id": "7715358_10101444157818028",
+                "from": {
+                    "name": "Ben Majoy",
+                    "id": "7715358"
+                },
+                "to": {
+                    "data": [
+                        {
+                            "name": "Steven Mullan",
+                            "id": "7718439"
+                        }
+                    ]
+                },
+                "message": "Steven Mullan for the win with this sexy disco swag. \n\nhttp://mackinac.bandcamp.com/",
+                "message_tags": {
+                    "0": [
+                        {
+                            "id": "7718439",
+                            "name": "Steven Mullan",
+                            "type": "user",
+                            "offset": 0,
+                            "length": 13
+                        }
+                    ]
+                },
+                "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDY4qdA2SRa0mb7&w=130&h=130&url=http%3A%2F%2Ff0.bcbits.com%2Fimg%2F0001843303_21.jpg",
+                "link": "http://mackinac.bandcamp.com/",
+                "source": "http://bandcamp.com/EmbeddedPlayer.swf/size=venti/track=440079039/",
+                "name": "take your time, by mackinac",
+                "description": "mackinac take your time, released 19 September 2013 take your time, and do what you feel. you make your own way, you make your own path, if you give up where you're going, then you're never gonna last. you find your strength in moving forwards, these distractions, keep you blinded, blinded from the…",
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/7715358/posts/10101444157818028"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/7715358/posts/10101444157818028"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "video",
+                "status_type": "shared_story",
+                "created_time": "2013-12-19T17:07:46+0000",
+                "updated_time": "2013-12-19T17:07:46+0000"
+            },
+            {
+                "id": "100004725612363_238669539633898",
+                "from": {
+                    "name": "Stephanie Gallegos",
+                    "id": "100004725612363"
+                },
+                "story": "Stephanie Gallegos shared First-Time-Mommy.com's photo.",
+                "story_tags": {
+                    "0": [
+                        {
+                            "id": "100004725612363",
+                            "name": "Stephanie Gallegos",
+                            "offset": 0,
+                            "length": 18,
+                            "type": "user"
+                        }
+                    ],
+                    "26": [
+                        {
+                            "id": "144066400672",
+                            "name": "First-Time-Mommy.com",
+                            "offset": 26,
+                            "length": 20,
+                            "type": "page"
+                        }
+                    ]
+                },
+                "picture": "https://fbcdn-photos-d-a.akamaihd.net/hphotos-ak-prn2/1469820_10152063702755673_972067930_s.jpg",
+                "link": "https://www.facebook.com/photo.php?fbid=10152063702755673&set=a.10150122913735673.310365.144066400672&type=1",
+                "name": "Timeline Photos",
+                "caption": "More than anything in the entire world.. How about you? — with Bianka Solangel Tèllez Maradiaga and 5 others.",
+                "properties": [
+                    {
+                        "name": "By",
+                        "text": "First-Time-Mommy.com",
+                        "href": "https://www.facebook.com/firsttimemommy?ref=stream"
+                    }
+                ],
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/100004725612363/posts/238669539633898"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/100004725612363/posts/238669539633898"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "photo",
+                "status_type": "shared_story",
+                "object_id": "10152063702755673",
+                "application": {
+                    "name": "Facebook for iPhone",
+                    "namespace": "fbiphone",
+                    "id": "6628568379"
+                },
+                "created_time": "2013-12-19T17:04:12+0000",
+                "updated_time": "2013-12-19T17:10:50+0000",
+                "likes": {
+                    "data": [
+                        {
+                            "id": "100000068932205",
+                            "name": "Dee Aguilar"
+                        },
+                        {
+                            "id": "100004725612363",
+                            "name": "Stephanie Gallegos"
+                        },
+                        {
+                            "id": "1019298159",
+                            "name": "Paulina Peanutt Perea"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MTAxOTI5ODE1OQ==",
+                            "before": "MTAwMDAwMDY4OTMyMjA1"
+                        }
+                    }
+                },
+                "comments": {
+                    "data": [
+                        {
+                            "id": "238669539633898_759962",
+                            "from": {
+                                "name": "Stephanie Gallegos",
+                                "id": "100004725612363"
+                            },
+                            "message": "I'm truly blessed to be a mother. Thank you for blessing me with a fabulous son.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T17:10:50+0000",
+                            "like_count": 1,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MQ==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            },
+            {
+                "id": "789302802_10152156670732803",
+                "from": {
+                    "name": "Lori Nakama",
+                    "id": "789302802"
+                },
+                "story": "Lori Nakama added a new photo.",
+                "story_tags": {
+                    "0": [
+                        {
+                            "id": "789302802",
+                            "name": "Lori Nakama",
+                            "offset": 0,
+                            "length": 11,
+                            "type": "user"
+                        }
+                    ]
+                },
+                "picture": "https://fbcdn-photos-g-a.akamaihd.net/hphotos-ak-frc3/1526691_10152156670622803_1890135467_s.jpg",
+                "link": "https://www.facebook.com/photo.php?fbid=10152156670622803&set=a.10152034811432803.1073741827.789302802&type=1&relevant_count=1",
+                "name": "Bitstrips Photos",
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/789302802/posts/10152156670732803"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/789302802/posts/10152156670732803"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "photo",
+                "status_type": "added_photos",
+                "object_id": "10152156670622803",
+                "application": {
+                    "name": "Bitstrips",
+                    "namespace": "bitstrips",
+                    "id": "34613858448"
+                },
+                "created_time": "2013-12-19T17:01:24+0000",
+                "updated_time": "2013-12-19T17:31:31+0000",
+                "likes": {
+                    "data": [
+                        {
+                            "id": "666967731",
+                            "name": "Doreen Nakama"
+                        },
+                        {
+                            "id": "1542908614",
+                            "name": "Oscar Negroni"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MTU0MjkwODYxNA==",
+                            "before": "NjY2OTY3NzMx"
+                        }
+                    }
+                },
+                "comments": {
+                    "data": [
+                        {
+                            "id": "10152156670622803_12125726",
+                            "from": {
+                                "name": "Nikki Lichterman",
+                                "id": "664216137"
+                            },
+                            "message": "I feel like this Every. Single. Day. Ha!",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T17:31:31+0000",
+                            "like_count": 1,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MQ==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            },
+            {
+                "id": "641182760_10151801967967761",
+                "from": {
+                    "name": "Xavier Teo",
+                    "id": "641182760"
+                },
+                "message": "Really want to go to the Grammys next year. Can't believe I just said that. Well because daft punk is playing. Tickets anyone?",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/641182760/posts/10151801967967761"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/641182760/posts/10151801967967761"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "status",
+                "status_type": "mobile_status_update",
+                "application": {
+                    "name": "Facebook for iPhone",
+                    "namespace": "fbiphone",
+                    "id": "6628568379"
+                },
+                "created_time": "2013-12-19T16:51:21+0000",
+                "updated_time": "2013-12-19T17:14:07+0000",
+                "likes": {
+                    "data": [
+                        {
+                            "id": "746745936",
+                            "name": "Rob Goldenberg"
+                        },
+                        {
+                            "id": "532272475",
+                            "name": "Eugenia Tan"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "NTMyMjcyNDc1",
+                            "before": "NzQ2NzQ1OTM2"
+                        }
+                    }
+                },
+                "comments": {
+                    "data": [
+                        {
+                            "id": "10151801967967761_27763612",
+                            "from": {
+                                "name": "David Charles",
+                                "id": "789943254"
+                            },
+                            "message": "you can do it.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:53:02+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "10151801967967761_27763670",
+                            "from": {
+                                "name": "Elliot Rudge",
+                                "id": "760200404"
+                            },
+                            "message": "http://www.thebluefish.com . They make things happen. Good luck.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:57:32+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "10151801967967761_27763869",
+                            "from": {
+                                "name": "Francisco De La Torre-Rocha",
+                                "id": "100001310511840"
+                            },
+                            "message": "Well, my dad always gets 4-6 tickets every year through his work.  Let's deal shall we?  Dark alley, suitcase case exchange type of deal.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T17:14:07+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "Mw==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            },
+            {
+                "id": "545346114_10152147926071115",
+                "from": {
+                    "name": "Rich Dickerson",
+                    "id": "545346114"
+                },
+                "message": "Wow, I just saw another great Fanny Foozle review! Here is a little excerpt: \nLydia loves to read along with Fanny Foozle and her friends. She enjoys the games, songs and interactive parts of the story as well as the game Apps. I think most young children will love having their own read to me, or read along story and games on Mom's or Dad's iPhone or iPad - and having a funny and silly friend to interact with encourages them to use their imaginations as they play and sing along with Fanny and her friends!",
+                "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCNG9RQiyqw1NSM&w=154&h=154&url=https%3A%2F%2Fscontent-b.xx.fbcdn.net%2Fhphotos-prn2%2Fs720x720%2F1476413_633837970010751_2025937008_n.png",
+                "link": "http://www.momloves2read.com/2013/12/fanny-foozle-preschool-app-songs-games.html",
+                "name": "Fanny Foozle Preschool App ~ songs, games, rhymes and more - Review & Giveaway ",
+                "caption": "www.momloves2read.com",
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/545346114/posts/10152147926071115"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/545346114/posts/10152147926071115"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "link",
+                "status_type": "shared_story",
+                "application": {
+                    "name": "Links",
+                    "id": "2309869772"
+                },
+                "created_time": "2013-12-19T16:48:54+0000",
+                "updated_time": "2013-12-19T16:48:54+0000"
+            },
+            {
+                "id": "100000148428093_773803935967880",
+                "from": {
+                    "name": "Faye Melancon",
+                    "id": "100000148428093"
+                },
+                "message": "Huummmmmmm",
+                "story": "Faye Melancon shared Only I can fight with my best friend, You say a word and you are dead.'s photo.",
+                "story_tags": {
+                    "0": [
+                        {
+                            "id": "100000148428093",
+                            "name": "Faye Melancon",
+                            "offset": 0,
+                            "length": 13,
+                            "type": "user"
+                        }
+                    ],
+                    "21": [
+                        {
+                            "id": "429323653811006",
+                            "name": "Only I can fight with my best friend, You say a word and you are dead.",
+                            "offset": 21,
+                            "length": 70,
+                            "type": "page"
+                        }
+                    ]
+                },
+                "picture": "https://fbcdn-photos-a-a.akamaihd.net/hphotos-ak-prn1/996694_605061496237220_1442035596_s.jpg",
+                "link": "https://www.facebook.com/photo.php?fbid=605061496237220&set=a.429367423806629.97685.429323653811006&type=1",
+                "name": "Timeline Photos",
+                "caption": "With Celeste Garcia and 16 others.",
+                "properties": [
+                    {
+                        "name": "By",
+                        "text": "Only I can fight with my best friend, You say a word and you are dead.",
+                        "href": "https://www.facebook.com/BeSsteSst.frienDs?ref=stream"
+                    }
+                ],
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/100000148428093/posts/773803935967880"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/100000148428093/posts/773803935967880"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "photo",
+                "status_type": "shared_story",
+                "object_id": "605061496237220",
+                "application": {
+                    "name": "Facebook for Android",
+                    "namespace": "fbandroid",
+                    "id": "350685531728"
+                },
+                "created_time": "2013-12-19T16:46:29+0000",
+                "updated_time": "2013-12-19T17:48:23+0000",
+                "likes": {
+                    "data": [
+                        {
+                            "id": "1210282379",
+                            "name": "Lawanda Gibson Crutcher"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MTIxMDI4MjM3OQ==",
+                            "before": "MTIxMDI4MjM3OQ=="
+                        }
+                    }
+                },
+                "comments": {
+                    "data": [
+                        {
+                            "id": "773803935967880_8462141",
+                            "from": {
+                                "name": "Lawanda Gibson Crutcher",
+                                "id": "1210282379"
+                            },
+                            "message": "you are DEFINITELY a blessing <3",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T17:48:23+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MQ==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            },
+            {
+                "id": "750644272_10152151258644273",
+                "from": {
+                    "name": "Tracy Weisert",
+                    "id": "750644272"
+                },
+                "message": "Heigh ho! Heigh ho! It's off to work we go! :-)",
+                "picture": "https://fbcdn-photos-e-a.akamaihd.net/hphotos-ak-frc3/1525301_10152151258579273_170120751_s.jpg",
+                "link": "https://www.facebook.com/photo.php?fbid=10152151258579273&set=a.10151086290564273.463034.750644272&type=1&relevant_count=1",
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yx/r/og8V99JVf8G.gif",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/750644272/posts/10152151258644273"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/750644272/posts/10152151258644273"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "place": {
+                    "id": "130376797057489",
+                    "name": "Walt Disney Studios Lot",
+                    "location": {
+                        "street": "500 S. Buena Vista St.",
+                        "city": "Los Angeles",
+                        "state": "CA",
+                        "country": "United States",
+                        "zip": "91521",
+                        "latitude": 34.156716111049,
+                        "longitude": -118.32610309592
+                    }
+                },
+                "type": "photo",
+                "status_type": "added_photos",
+                "object_id": "10152151258579273",
+                "application": {
+                    "name": "Facebook for Android",
+                    "namespace": "fbandroid",
+                    "id": "350685531728"
+                },
+                "created_time": "2013-12-19T16:40:43+0000",
+                "updated_time": "2013-12-19T16:40:43+0000",
+                "likes": {
+                    "data": [
+                        {
+                            "id": "728410358",
+                            "name": "Mark O'Connell"
+                        },
+                        {
+                            "id": "627730409",
+                            "name": "Anthony Gordon"
+                        },
+                        {
+                            "id": "1009875049",
+                            "name": "MaryAnn Carlisle DiPietro"
+                        },
+                        {
+                            "id": "100000299857616",
+                            "name": "Greg Haines"
+                        },
+                        {
+                            "id": "1306869888",
+                            "name": "Aguilar Larry"
+                        },
+                        {
+                            "id": "640070352",
+                            "name": "Jake Lawson"
+                        },
+                        {
+                            "id": "1271783072",
+                            "name": "Robert Burns"
+                        },
+                        {
+                            "id": "1234076852",
+                            "name": "Bailey Mason"
+                        },
+                        {
+                            "id": "541355828",
+                            "name": "Pete George"
+                        },
+                        {
+                            "id": "726267022",
+                            "name": "Colleen Wainwright"
+                        },
+                        {
+                            "id": "1357867519",
+                            "name": "Jeff Chavez"
+                        },
+                        {
+                            "id": "100000071738492",
+                            "name": "Lauri Rigler"
+                        },
+                        {
+                            "id": "1255838495",
+                            "name": "Martha Catherine Sargent"
+                        },
+                        {
+                            "id": "1169386637",
+                            "name": "Clemente Ladrido"
+                        },
+                        {
+                            "id": "901170555",
+                            "name": "Dallas Jackson"
+                        },
+                        {
+                            "id": "1515156904",
+                            "name": "Holly Wasson"
+                        },
+                        {
+                            "id": "704741953",
+                            "name": "Doug Neville"
+                        },
+                        {
+                            "id": "1094752152",
+                            "name": "Kathie Gunn"
+                        },
+                        {
+                            "id": "523569744",
+                            "name": "Katrina Wogan Steiner"
+                        },
+                        {
+                            "id": "591843852",
+                            "name": "Karman Kregloe"
+                        },
+                        {
+                            "id": "1712978756",
+                            "name": "Cindy Claps"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MTcxMjk3ODc1Ng==",
+                            "before": "NzI4NDEwMzU4"
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1525761630_10202693702573465",
+                "from": {
+                    "name": "Dawn Hershey",
+                    "id": "1525761630"
+                },
+                "message": "CHARLIE: \"Mommy I really missed you when you were at work. I dreamed about you.\"\nME: \"Awe, I missed you too my Love,what did you dream?\"\nCHARLIE: \"That I was snuggling you\".",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/1525761630/posts/10202693702573465"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/1525761630/posts/10202693702573465"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "status",
+                "status_type": "mobile_status_update",
+                "application": {
+                    "name": "Facebook for iPhone",
+                    "namespace": "fbiphone",
+                    "id": "6628568379"
+                },
+                "created_time": "2013-12-19T16:38:09+0000",
+                "updated_time": "2013-12-19T17:55:35+0000",
+                "likes": {
+                    "data": [
+                        {
+                            "id": "1060993020",
+                            "name": "Moe Newaz"
+                        },
+                        {
+                            "id": "542598971",
+                            "name": "Greg Lastrapes"
+                        },
+                        {
+                            "id": "1097101352",
+                            "name": "Phillip Van Dyke"
+                        },
+                        {
+                            "id": "1222642626",
+                            "name": "Gabrielle Angelique Wagner"
+                        },
+                        {
+                            "id": "1117081323",
+                            "name": "Sandy Carlson"
+                        },
+                        {
+                            "id": "755233580",
+                            "name": "Jennifer Hale"
+                        },
+                        {
+                            "id": "550031700",
+                            "name": "Janice Maiorana Browne"
+                        },
+                        {
+                            "id": "1144212379",
+                            "name": "Sara Allison"
+                        },
+                        {
+                            "id": "1261491100",
+                            "name": "Jan Sarah Sink"
+                        },
+                        {
+                            "id": "1149431577",
+                            "name": "Katie Salcido"
+                        },
+                        {
+                            "id": "1663681689",
+                            "name": "Allie McGaugh-Wilkins"
+                        },
+                        {
+                            "id": "1378629354",
+                            "name": "Barbara Bell"
+                        },
+                        {
+                            "id": "1410421813",
+                            "name": "Michelle Barnes"
+                        },
+                        {
+                            "id": "620605852",
+                            "name": "Kacie Leanne"
+                        },
+                        {
+                            "id": "1050579896",
+                            "name": "Tara McPeak"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MTA1MDU3OTg5Ng==",
+                            "before": "MTA2MDk5MzAyMA=="
+                        }
+                    }
+                },
+                "comments": {
+                    "data": [
+                        {
+                            "id": "10202693702573465_6547485",
+                            "from": {
+                                "name": "Allie McGaugh-Wilkins",
+                                "id": "1663681689"
+                            },
+                            "message": "My heart just melted....",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:44:47+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "10202693702573465_6547548",
+                            "from": {
+                                "name": "Joe Shaw",
+                                "id": "546970368"
+                            },
+                            "message": "Ahhh, the good stuff",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:59:41+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "10202693702573465_6547573",
+                            "from": {
+                                "name": "David A Dietz",
+                                "id": "1199251464"
+                            },
+                            "message": "Chase this morning (dad don't touch me stay away. ) \nMe : why son\nChase: because I had a dream that you were a zombie and you were eating me\nPrecious",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T17:06:32+0000",
+                            "like_count": 2,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "10202693702573465_6547793",
+                            "from": {
+                                "name": "Chris Edgerly",
+                                "id": "722472252"
+                            },
+                            "message": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww..............",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T17:55:35+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "NA==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            },
+            {
+                "id": "527244544_10151929981464545",
+                "from": {
+                    "name": "Bonnie O'Donnell",
+                    "id": "527244544"
+                },
+                "message": "Still brings me to tears.  Loved this show and was really the best ending to any show.  ",
+                "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCT6wAdZElieGF0&w=154&h=154&url=http%3A%2F%2Fpixel.nymag.com%2Fcontent%2Fdam%2Fdaily%2Fvulture%2F2013%2F12%2F17%2F17-micro-oral-history-six-feet-under.jpg",
+                "link": "http://www.vulture.com/2013/12/six-feet-under-death-montage-oral-history.html",
+                "name": "‘Breathe Me’: The Oral History of the Six Feet Under Finale’s Death Montage",
+                "caption": "www.vulture.com",
+                "description": "Alan Ball, Lauren Ambrose, Michael C. Hall, and others reminisce about one of TV’s best finishes.",
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/527244544/posts/10151929981464545"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/527244544/posts/10151929981464545"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "link",
+                "status_type": "shared_story",
+                "application": {
+                    "name": "Links",
+                    "id": "2309869772"
+                },
+                "created_time": "2013-12-19T16:32:07+0000",
+                "updated_time": "2013-12-19T17:10:12+0000",
+                "likes": {
+                    "data": [
+                        {
+                            "id": "664216137",
+                            "name": "Nikki Lichterman"
+                        },
+                        {
+                            "id": "1440442243",
+                            "name": "Stacy Christine"
+                        },
+                        {
+                            "id": "742280006",
+                            "name": "Tami Carter McNulty"
+                        },
+                        {
+                            "id": "526185020",
+                            "name": "Meredith Fields"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "NTI2MTg1MDIw",
+                            "before": "NjY0MjE2MTM3"
+                        }
+                    }
+                },
+                "comments": {
+                    "data": [
+                        {
+                            "id": "10151929981464545_28315080",
+                            "from": {
+                                "name": "Bonnie O'Donnell",
+                                "id": "527244544"
+                            },
+                            "message": "Thanks for sharing Joel Chiodi.",
+                            "message_tags": [
+                                {
+                                    "id": "645318211",
+                                    "name": "Joel Chiodi",
+                                    "type": "user",
+                                    "offset": 19,
+                                    "length": 11
+                                }
+                            ],
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:32:41+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "10151929981464545_28315135",
+                            "from": {
+                                "name": "Meredith Fields",
+                                "id": "526185020"
+                            },
+                            "message": "agreed 100% - best ending to a show ever, and one of the top shows ever!",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:36:15+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "10151929981464545_28315559",
+                            "from": {
+                                "name": "Stacy Christine",
+                                "id": "1440442243"
+                            },
+                            "message": "100% best series finale ever.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T17:10:12+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "Mw==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            },
+            {
+                "id": "354522044588660_682900725084122",
+                "from": {
+                    "category": "Media/news/publishing",
+                    "name": "Upworthy",
+                    "id": "354522044588660"
+                },
+                "to": {
+                    "data": [
+                        {
+                            "category": "Writer",
+                            "name": "Rossalyn Warren",
+                            "id": "279100288894265"
+                        }
+                    ]
+                },
+                "message": "He still quips like Chandler from \"Friends,\" but his real talk is on point. - Rossalyn Warren",
+                "message_tags": {
+                    "78": [
+                        {
+                            "id": "279100288894265",
+                            "name": "Rossalyn Warren",
+                            "type": "page",
+                            "offset": 78,
+                            "length": 15
+                        }
+                    ]
+                },
+                "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQC22JegFGHlX8KF&w=154&h=154&url=http%3A%2F%2Fupw-prod-images.global.ssl.fastly.net%2Fnugget%2F52b23735d95c70076f00011b%2FPM-ef86bbbde57c5908f00aaa36a62610d1.png",
+                "link": "http://u.pw/1ho1b43",
+                "name": "Watch What Matthew Perry Says When A Dude Says His Drug Addiction Is His Choice",
+                "caption": "www.upworthy.com",
+                "description": "Could he BE any more awesome?",
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/354522044588660/posts/682900725084122"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/354522044588660/posts/682900725084122"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "link",
+                "status_type": "shared_story",
+                "created_time": "2013-12-19T16:30:00+0000",
+                "updated_time": "2013-12-19T16:34:02+0000",
+                "shares": {
+                    "count": 747
+                },
+                "likes": {
+                    "data": [
+                        {
+                            "id": "1264503564",
+                            "name": "Olivia Kougher-Cope"
+                        },
+                        {
+                            "id": "1557830556",
+                            "name": "Frank Pantaleo"
+                        },
+                        {
+                            "id": "100000715784694",
+                            "name": "Blaine Smothers"
+                        },
+                        {
+                            "id": "1281302333",
+                            "name": "Adam Mercer"
+                        },
+                        {
+                            "id": "1053456524",
+                            "name": "Sherry Sinsay Alamdari"
+                        },
+                        {
+                            "id": "642895837",
+                            "name": "Gigi De Mier"
+                        },
+                        {
+                            "id": "1420983676",
+                            "name": "Alice Shore Marsh"
+                        },
+                        {
+                            "id": "707877272",
+                            "name": "Amity Scheid"
+                        },
+                        {
+                            "id": "824900042",
+                            "name": "Bluejean Belle"
+                        },
+                        {
+                            "id": "1551108578",
+                            "name": "Arthur Stowe"
+                        },
+                        {
+                            "id": "1357215627",
+                            "name": "Amy Thompson"
+                        },
+                        {
+                            "id": "586429732",
+                            "name": "J.J. Pearson"
+                        },
+                        {
+                            "id": "1501010009",
+                            "name": "Laura Lukens"
+                        },
+                        {
+                            "id": "1581387095",
+                            "name": "Tiffany Allred"
+                        },
+                        {
+                            "id": "100000731224970",
+                            "name": "Jason McClung"
+                        },
+                        {
+                            "id": "1679236194",
+                            "name": "Carolyn Reilly"
+                        },
+                        {
+                            "id": "100002118439029",
+                            "name": "Robert Castro"
+                        },
+                        {
+                            "id": "633813105",
+                            "name": "Julie Ann"
+                        },
+                        {
+                            "id": "619320601",
+                            "name": "Elsa Winterkorn"
+                        },
+                        {
+                            "id": "575226621",
+                            "name": "Toni Kipa"
+                        },
+                        {
+                            "id": "671921357",
+                            "name": "Ken Perkins"
+                        },
+                        {
+                            "id": "512012565",
+                            "name": "Grant Lowe"
+                        },
+                        {
+                            "id": "875965651",
+                            "name": "Caroline Rodgers"
+                        },
+                        {
+                            "id": "798608495",
+                            "name": "Mike Walters"
+                        },
+                        {
+                            "id": "100000447976391",
+                            "name": "Matthew Sommer"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MTAwMDAwNDQ3OTc2Mzkx",
+                            "before": "MTI2NDUwMzU2NA=="
+                        },
+                        "next": "https://graph.facebook.com/354522044588660_682900725084122/likes?limit=25&after=MTAwMDAwNDQ3OTc2Mzkx"
+                    }
+                },
+                "comments": {
+                    "data": [
+                        {
+                            "id": "682900725084122_85172014",
+                            "from": {
+                                "name": "Smiti Lukhman",
+                                "id": "223804196"
+                            },
+                            "message": "I actually thought he didn't do very well on this..neither of them did. They both just kept throwing childish retorts at each other, only the woman was actually trying to contribute anything worthwhile to the debate.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:32:16+0000",
+                            "like_count": 354,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172033",
+                            "from": {
+                                "name": "Bill Drew",
+                                "id": "676615545"
+                            },
+                            "message": "Addiction was not his choice but choosing to do drugs was! Also developing healthy coping mechanisms helps one avoid the pitfalls of drugs and drug addiction.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:34:02+0000",
+                            "like_count": 125,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172037",
+                            "from": {
+                                "name": "Tina Shaulis Kling",
+                                "id": "1356497079"
+                            },
+                            "message": "If you've never had an addiction you dont have business commenting on someone who has or does. If addiction is a choice so is being ugly and fat.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:34:07+0000",
+                            "like_count": 64,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172034",
+                            "from": {
+                                "name": "Cassie Anderson",
+                                "id": "607729047"
+                            },
+                            "message": "Choosing to try drugs is a choice. Becoming addicted is not.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:34:03+0000",
+                            "like_count": 60,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172022",
+                            "from": {
+                                "name": "Fallyn GrumpyCat Spinks",
+                                "id": "808089921"
+                            },
+                            "message": "I might get some hassle for this, and drug addiction is a serious issue, but I have to say it is a choice. In most cases nobody forces someone to take drugs.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:32:51+0000",
+                            "like_count": 96,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172253",
+                            "from": {
+                                "name": "Frank Montel IV",
+                                "id": "13752565"
+                            },
+                            "message": "this is stupid. \"allergy of the body\". What the fuck does that even mean? This only proves that people are inclined to believe the celebrity's perspective. He made weak ad hominem arguments, and he egotistically acted like he was moderating the discussion. Why the hell was he there, anyways? Fuck Matthew Perry, and his alcoholism. It's not a disease, it's a fucking choice. I overindulge in alcohol because I choose to, and I know it's wrong, but I do it anyways because it's a convenient way to make me feel better right now. I'm weak, and I know it. I don't have a disease, I have a problem with will power. So does Matthew Perry.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:46:49+0000",
+                            "like_count": 40,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172054",
+                            "from": {
+                                "name": "Belle Hardin",
+                                "id": "1194720876"
+                            },
+                            "message": "Initially it is a choice, unless you're born addicted. After repeated use, it restructures your brain...the need or desire to use becomes less of a conscious decision.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:35:45+0000",
+                            "like_count": 33,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172768",
+                            "from": {
+                                "name": "Jana Murphy-Magee",
+                                "id": "1336162039"
+                            },
+                            "message": "Unless you've been one of the fortunate few who've never so much as sipped a beer or taken a hit off of a marijuana cigarette or needed a narcotic pain reliever, you chose to put something into your body without having any idea whether or not you'd be one of those who would not be able to stop.\n\nWhy do you suppose some people can drink \"normally\", socially, and others can't?  Do you honestly believe that anyone CHOOSES to pay the consequences associated with addiction?  Loss of jobs, homes, families, friends, dignity, self respect?\n\nI'll tell you how much it's NOT about \"will power\".  I used drugs AGAINST my own will!  I used when I didnt' want to.  I used when I'd promised myself I wouldn't.  Why?  Because I'm so weak willed?  Hardly.  The reason is because I'm an addict.  I'm grateful to have been in recovery for nearly 11 years now but it took years of suffering, of not understanding why I couldn't stop even though I wanted to, of shame and guilt and losses.\n\nI'd love to be able to have a glass of wine with dinner, coctails with friends after work, even take a toke on a joint now and then but I can't.  My brain and my body don't work like the brains and bodies of those who can.\n\nCriminalizing the manufacture and dealing of drugs... I'm good with that.  Those people are predators.  Criminilizing addiction is absurd, ludicrous, ineffective, inhumane and a waste of taxpayer dollars.  Addicts require treatment in order to get better.\n\nYes, I chose to try that first joint, drink that first drink, but like many of you, I had no idea that it would lead to a life time of misery and loss of control over my own thoughts and body.  Lots of my friends tried those first experiences with me.  Lots of them went on to stop partying and begin adult lives.  Lots of us didn't.  The latter of us have a disorder, called addiction.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T17:08:04+0000",
+                            "like_count": 25,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172085",
+                            "from": {
+                                "name": "Ronnie Thompson",
+                                "id": "514417700"
+                            },
+                            "message": "\"My life is the objective evidence.\" That is actually the definition of subjective evidence...",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:37:43+0000",
+                            "like_count": 23,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172187",
+                            "from": {
+                                "name": "Anne Richards",
+                                "id": "609150534"
+                            },
+                            "message": "Sure, people choose to drink or take a drug, but no one chooses to be an addict. Stop moralizing and realize that addiction is complicated disease.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:43:51+0000",
+                            "like_count": 20,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172053",
+                            "from": {
+                                "name": "Kayne Sirocco LaTrans",
+                                "id": "1420117786"
+                            },
+                            "message": "<= sick of the current culture of excuses. It IS a choice.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:35:32+0000",
+                            "like_count": 15,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172326",
+                            "from": {
+                                "name": "Mikki Salerno",
+                                "id": "100000390726190"
+                            },
+                            "message": "Having addiction labelled as a disease, once again, removes responsibility of an individual from his/her actions. It's another liberal policy of \"I'm not responsible for what I do\" and \"it's the responsibility of others to help me/support me, etc.\" It is a choice to do drugs, and if you take a couple of drinks and find that you can't stop, it's that person's responsibility to seek help for themselves! Good grief!",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:49:58+0000",
+                            "like_count": 16,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172198",
+                            "from": {
+                                "name": "Renee Boswell Hultberg",
+                                "id": "1226994263"
+                            },
+                            "message": "My dad was an alcoholic. I attended my first AA meeting before I was a week old, as he decided to get sober 11 months before I was born. My dad never said, \"I'm Greg and I'm an alcoholic.\" He said, I'm an alcoholic and my problem is Greg.\" The disease is not a choice, but it is also not to blame for your choices. ",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:44:27+0000",
+                            "like_count": 15,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172185",
+                            "from": {
+                                "name": "Katie Witherden",
+                                "id": "692469947"
+                            },
+                            "message": "'The Dude' is Peter Hitchens. A well known rightwing nutcase/mouthpiece. You get O'Reilly - We get Hitchens apparently.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:43:44+0000",
+                            "like_count": 15,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172129",
+                            "from": {
+                                "name": "Lynn Stanton Cornish",
+                                "id": "1140348644"
+                            },
+                            "message": "I don't think Perry did a good job of defending himself at all.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:40:59+0000",
+                            "like_count": 14,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172209",
+                            "from": {
+                                "name": "Zac Griffiths",
+                                "id": "603568618"
+                            },
+                            "message": "it's not really on point, he misses most opportunities given to him to give real information or insight by dishing out quips. He's brought sassiness to an intellectual debate without much in the way of figures to back it up. I'd like to have listened more to the person by his side who was actually armed with information.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:44:50+0000",
+                            "like_count": 13,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172027",
+                            "from": {
+                                "name": "Carol Young",
+                                "id": "550493680"
+                            },
+                            "message": "It was his choice initially, after that it was out of his control",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:33:37+0000",
+                            "like_count": 14,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172273",
+                            "from": {
+                                "name": "Rebecca Carlson",
+                                "id": "59701372"
+                            },
+                            "message": "I love Matthew Perry now more than ever. That obnoxious British assmunch needs to be tarred and feathered though. Addiction is NOT a choice. It is a disease. And coupled with mental illness, as it so often is, makes it a killer. Don't start with me, you will not win. (I work in this field.)",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:47:31+0000",
+                            "like_count": 12,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172249",
+                            "from": {
+                                "name": "Bobbi Hogan",
+                                "id": "536438020"
+                            },
+                            "message": "Unfortunately he looks as if he's been sitting at a bar stool for 3 days.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:46:41+0000",
+                            "like_count": 12,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172196",
+                            "from": {
+                                "name": "Pete Herb",
+                                "id": "509805958"
+                            },
+                            "message": "I don't think this debate really achieved anything...",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:44:19+0000",
+                            "like_count": 13,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172397",
+                            "from": {
+                                "name": "Rebecca Marie",
+                                "id": "501294159"
+                            },
+                            "message": "At some point, the addict CHOOSES to engage in the drug.  CHOOSES.  FACT.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:52:43+0000",
+                            "like_count": 10,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172632",
+                            "from": {
+                                "name": "Rich 'catface' Brooks",
+                                "id": "100000364204182"
+                            },
+                            "message": "As a Briton, I would like to take this opportunity to apologise for Peter Hitchens. He's an odious little man, who, along with Piers Morgan, needs to be sealed up inside a barrel and dropped into the north sea.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T17:01:42+0000",
+                            "like_count": 11,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172842",
+                            "from": {
+                                "name": "Allison Black",
+                                "id": "1481526455"
+                            },
+                            "message": "The only people who should get a say in this are either researchers or former addicts. No one else truly gets it. Not everyone who has that first drink or first line becomes an addict - in fact the vast majority don't. Those are the people who have a choice to stop or start or whatever. It is those few who have a genetic disposition to addiction that innocently have that first drink or that first sample of some drug that then can't stop - they no longer have a choice. They didn't make the decision to become addicts, they just did what nearly everyone else does, have a casual drink or try some drug that everyone else is enjoying and then they discover the disease. Up until then, they think they are normal and can just stop whenever they want. Until you have experience this kind of addiction, this uncontrollable obsession, you don't have a dog in this fight.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T17:11:45+0000",
+                            "like_count": 9,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172462",
+                            "from": {
+                                "name": "Rae Kelly",
+                                "id": "1051148717"
+                            },
+                            "message": "Really, people? Do any of you even have an iota of empathy in your brains for people who end up addicted to substances because those substances are the only escape from your pain?? You can demonize drugs and alcohol all you want, but, remember, nearly ALL \"illegal\" drugs were once widely used as MEDICINE. And, yes, they still DO have very effective medicinal qualities, in many cases better than what you get at the pharmacy. The idea that addiction is a choice is ludicrous, and shaming anyone (non-addicted) who wants to get high once in a while is the ultimate hypocracy. That buzz from a beer or a cigarette? The adrenaline from playing football, boxing, running, or even just watching a game? That's a HIGH. You \"need\" coffee to function? Well, that's also substance abuse. Why is it we can point at so many laws and complain about their rudiculousness UNLESS it's in regards to drugs and their usage and punishments?",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:55:17+0000",
+                            "like_count": 9,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "682900725084122_85172239",
+                            "from": {
+                                "name": "Kevin Robertson",
+                                "id": "100001582632847"
+                            },
+                            "message": "Perry gets owned in this. Hitchens is a pompous arse but rhetorically he beats him all ends up. The prof is the most accurate because she's taken the trouble to do her homework. Bing bing:)",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:46:22+0000",
+                            "like_count": 10,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "ODU5",
+                            "before": "ODgz"
+                        },
+                        "next": "https://graph.facebook.com/354522044588660_682900725084122/comments?limit=25&after=ODU5"
+                    }
+                }
+            },
+            {
+                "id": "533925150_10153671355970151",
+                "from": {
+                    "name": "Matthew Stuart",
+                    "id": "533925150"
+                },
+                "story": "Matthew Stuart shared a link.",
+                "story_tags": {
+                    "0": [
+                        {
+                            "id": "533925150",
+                            "name": "Matthew Stuart",
+                            "offset": 0,
+                            "length": 14,
+                            "type": "user"
+                        }
+                    ]
+                },
+                "picture": "https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBdIwDMOb04ULSU&w=154&h=154&url=http%3A%2F%2Fwww.nationswell.com%2Fwp-content%2Fuploads%2F2013%2F12%2Futah-homelessness.jpg",
+                "link": "http://www.nationswell.com/one-state-track-become-first-end-homelessness-2015/",
+                "name": "Utah Is on Track to End Homelessness by 2015 With This One Simple Idea",
+                "caption": "www.nationswell.com",
+                "description": "Utah has reduced its rate of chronic homelessness by 78 percent over the past eight years, moving 2000 people off the street and putting the state on track to eradicate homelessness altogether by 2015. How’d they do it? The state is giving away apartments, no strings attached. In 2005, Utah calculat...",
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/533925150/posts/10153671355970151"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/533925150/posts/10153671355970151"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "link",
+                "status_type": "shared_story",
+                "application": {
+                    "name": "Facebook for iPhone",
+                    "namespace": "fbiphone",
+                    "id": "6628568379"
+                },
+                "created_time": "2013-12-19T16:10:43+0000",
+                "updated_time": "2013-12-19T16:10:43+0000",
+                "likes": {
+                    "data": [
+                        {
+                            "id": "828808163",
+                            "name": "Hillary Skye"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "ODI4ODA4MTYz",
+                            "before": "ODI4ODA4MTYz"
+                        }
+                    }
+                }
+            },
+            {
+                "id": "862925396_10153670843695397",
+                "from": {
+                    "name": "Sabri Sansoy",
+                    "id": "862925396"
+                },
+                "story": "Sabri Sansoy updated his cover photo.",
+                "story_tags": {
+                    "0": [
+                        {
+                            "id": "862925396",
+                            "name": "Sabri Sansoy",
+                            "offset": 0,
+                            "length": 12,
+                            "type": "user"
+                        }
+                    ]
+                },
+                "picture": "https://fbcdn-photos-a-a.akamaihd.net/hphotos-ak-ash3/1506994_10153670842735397_1211896350_s.jpg",
+                "link": "https://www.facebook.com/photo.php?fbid=10153670842735397&set=a.10150830004095397.742521.862925396&type=1&relevant_count=1",
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/862925396/posts/10153670843695397"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/862925396/posts/10153670843695397"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "photo",
+                "object_id": "10153670842735397",
+                "created_time": "2013-12-19T16:01:18+0000",
+                "updated_time": "2013-12-19T16:03:33+0000",
+                "likes": {
+                    "data": [
+                        {
+                            "id": "100006778537778",
+                            "name": "Sevil Akyatan"
+                        },
+                        {
+                            "id": "1293904933",
+                            "name": "Rhiana Diaz"
+                        },
+                        {
+                            "id": "669647514",
+                            "name": "Michelle A. DeBerry"
+                        },
+                        {
+                            "id": "789302802",
+                            "name": "Lori Nakama"
+                        },
+                        {
+                            "id": "734972710",
+                            "name": "Bobby Venancio"
+                        },
+                        {
+                            "id": "1851087690",
+                            "name": "Nay Nay"
+                        },
+                        {
+                            "id": "533925150",
+                            "name": "Matthew Stuart"
+                        },
+                        {
+                            "id": "94100238",
+                            "name": "Matt Koulermos"
+                        },
+                        {
+                            "id": "1135081398",
+                            "name": "Angelina Altobano"
+                        },
+                        {
+                            "id": "518027970",
+                            "name": "Jeff Campbell"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "NTE4MDI3OTcw",
+                            "before": "MTAwMDA2Nzc4NTM3Nzc4"
+                        }
+                    }
+                },
+                "comments": {
+                    "data": [
+                        {
+                            "id": "10153670842735397_22228334",
+                            "from": {
+                                "name": "Hulya Sansoy",
+                                "id": "542468953"
+                            },
+                            "message": "Moorea?",
+                            "can_remove": true,
+                            "created_time": "2013-12-19T16:02:37+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "10153670842735397_22228339",
+                            "from": {
+                                "name": "Sabri Sansoy",
+                                "id": "862925396"
+                            },
+                            "message": "Kauau'i, Hawaii",
+                            "can_remove": true,
+                            "created_time": "2013-12-19T16:03:02+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "10153670842735397_22228344",
+                            "from": {
+                                "name": "Hulya Sansoy",
+                                "id": "542468953"
+                            },
+                            "message": "Lenore Ortega sends her love to you this holiday season.",
+                            "can_remove": true,
+                            "created_time": "2013-12-19T16:03:33+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "Mw==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            },
+            {
+                "id": "683843745_10152117274473746",
+                "from": {
+                    "name": "Joan Plantenberg-Albano",
+                    "id": "683843745"
+                },
+                "message": "2.8 Marina del Rey",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/683843745/posts/10152117274473746"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/683843745/posts/10152117274473746"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "status",
+                "status_type": "mobile_status_update",
+                "created_time": "2013-12-19T15:58:29+0000",
+                "updated_time": "2013-12-19T16:09:42+0000",
+                "likes": {
+                    "data": [
+                        {
+                            "id": "1181225541",
+                            "name": "Ceci Pennington"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MTE4MTIyNTU0MQ==",
+                            "before": "MTE4MTIyNTU0MQ=="
+                        }
+                    }
+                },
+                "comments": {
+                    "data": [
+                        {
+                            "id": "10152117274473746_28969738",
+                            "from": {
+                                "name": "Ceci Pennington",
+                                "id": "1181225541"
+                            },
+                            "message": "Joannie!! That's nothing!",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:08:57+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "10152117274473746_28969743",
+                            "from": {
+                                "name": "Patrick Ranson-Gillette",
+                                "id": "694881052"
+                            },
+                            "message": "2.8? Gawd, back in SF we would have thought someone dropped a (paperback) book on the floor.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:09:42+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "Mg==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            },
+            {
+                "id": "683843745_10152117270148746",
+                "from": {
+                    "name": "Joan Plantenberg-Albano",
+                    "id": "683843745"
+                },
+                "message": "Westchester earthquake!  Little but scary!",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/683843745/posts/10152117270148746"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/683843745/posts/10152117270148746"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "status",
+                "status_type": "mobile_status_update",
+                "created_time": "2013-12-19T15:55:15+0000",
+                "updated_time": "2013-12-19T16:06:42+0000",
+                "comments": {
+                    "data": [
+                        {
+                            "id": "10152117270148746_28969701",
+                            "from": {
+                                "name": "Kathrynn Thai Henke",
+                                "id": "682633005"
+                            },
+                            "message": "felt that",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:06:42+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MQ==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1496472865_10202958517552698",
+                "from": {
+                    "name": "Dave Thomas",
+                    "id": "1496472865"
+                },
+                "message": "Now that Iran, North Korea, India and Pakistan have gone nuclear, I guess it's back on! We had a little bit of a break there for a couple of decades but now I guess it's time to stock the liquor cabinets again!",
+                "picture": "https://fbcdn-photos-b-a.akamaihd.net/hphotos-ak-frc3/1468709_10202958508152463_442906119_s.jpg",
+                "link": "https://www.facebook.com/photo.php?fbid=10202958508152463&set=a.1177082556009.27612.1496472865&type=1&relevant_count=1",
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/1496472865/posts/10202958517552698"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/1496472865/posts/10202958517552698"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "photo",
+                "status_type": "added_photos",
+                "object_id": "10202958508152463",
+                "created_time": "2013-12-19T15:48:15+0000",
+                "updated_time": "2013-12-19T16:14:31+0000",
+                "likes": {
+                    "data": [
+                        {
+                            "id": "100001379391823",
+                            "name": "Bill De La Espriella"
+                        },
+                        {
+                            "id": "1209050550",
+                            "name": "Stephen Nathan"
+                        },
+                        {
+                            "id": "1261706837",
+                            "name": "Edward Peghin"
+                        },
+                        {
+                            "id": "1543585743",
+                            "name": "Juul Haalmeyer"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MTU0MzU4NTc0Mw==",
+                            "before": "MTAwMDAxMzc5MzkxODIz"
+                        }
+                    }
+                },
+                "comments": {
+                    "data": [
+                        {
+                            "id": "10202958508152463_4197118",
+                            "from": {
+                                "name": "Mike Short",
+                                "id": "544958488"
+                            },
+                            "message": "Are you saying you quit boozing for twenty years?",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:14:31+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MQ==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            },
+            {
+                "id": "591477046_10151783262462047",
+                "from": {
+                    "name": "Demet Tuncer",
+                    "id": "591477046"
+                },
+                "message": "Arkadaslarla Hataaay....Fititiiii",
+                "story": "Demet Tuncer added 4 photos.",
+                "story_tags": {
+                    "0": [
+                        {
+                            "id": "591477046",
+                            "name": "Demet Tuncer",
+                            "offset": 0,
+                            "length": 12,
+                            "type": "user"
+                        }
+                    ]
+                },
+                "picture": "https://fbcdn-photos-a-a.akamaihd.net/hphotos-ak-prn1/1522292_10151783261152047_1778408983_s.jpg",
+                "link": "https://www.facebook.com/photo.php?fbid=10151783261152047&set=pcb.10151783262462047&type=1&relevant_count=4",
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yx/r/og8V99JVf8G.gif",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/591477046/posts/10151783262462047"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/591477046/posts/10151783262462047"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "photo",
+                "status_type": "mobile_status_update",
+                "object_id": "10151783261152047",
+                "application": {
+                    "name": "Facebook for Android",
+                    "namespace": "fbandroid",
+                    "id": "350685531728"
+                },
+                "created_time": "2013-12-19T15:48:00+0000",
+                "updated_time": "2013-12-19T16:08:11+0000",
+                "shares": {
+                    "count": 1
+                },
+                "likes": {
+                    "data": [
+                        {
+                            "id": "100001763875734",
+                            "name": "Hale Caneroğlu"
+                        },
+                        {
+                            "id": "100000607835130",
+                            "name": "Seniye Kaval Yildirim"
+                        },
+                        {
+                            "id": "732574211",
+                            "name": "Defne Demiryöney Beklim"
+                        },
+                        {
+                            "id": "685569425",
+                            "name": "Aslihan Müftüoglu"
+                        },
+                        {
+                            "id": "903905610",
+                            "name": "Müjde Yılman"
+                        },
+                        {
+                            "id": "617193765",
+                            "name": "Osman Özsoy"
+                        },
+                        {
+                            "id": "670048204",
+                            "name": "Halil Işık"
+                        },
+                        {
+                            "id": "100002866970039",
+                            "name": "Özlen Küçükcan Yazıcıoğlu"
+                        },
+                        {
+                            "id": "590819472",
+                            "name": "Onur Cengiz"
+                        },
+                        {
+                            "id": "749003713",
+                            "name": "Sebnem Ercelik"
+                        },
+                        {
+                            "id": "1463711097",
+                            "name": "Fusun Onal"
+                        },
+                        {
+                            "id": "601587238",
+                            "name": "Esra Dogan Küçükkayış"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "NjAxNTg3MjM4",
+                            "before": "MTAwMDAxNzYzODc1NzM0"
+                        }
+                    }
+                },
+                "comments": {
+                    "data": [
+                        {
+                            "id": "10151783262462047_27765284",
+                            "from": {
+                                "name": "Mine Gurses",
+                                "id": "1099812870"
+                            },
+                            "message": "AYIP OLUYOR AMAAAAA.. BURALARDA YILLARDIR KÜNEFE YİYEMEYENLER VAR YAAAAAAA",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:08:11+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MQ==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            },
+            {
+                "id": "100000068932205_708517475827210",
+                "from": {
+                    "name": "Dee Aguilar",
+                    "id": "100000068932205"
+                },
+                "message": "It makes me so mad that people (atheist) and other non-believers are complaining about the word Christmas! I have yet to see any true believers complaining about atheists and other non-believers! Christmas is all about the birth of Christ our savior. It is not about santa claus and all the hopla that comes with this commercial sales gimmick.  I am a true believer! Stop interrupting the joy I have in my heart for my beliefs, after all I don't push my beliefs on you. Christmas will always be Christmas to me.",
+                "picture": "https://fbcdn-photos-f-a.akamaihd.net/hphotos-ak-ash4/1524751_708517092493915_1662496762_s.jpg",
+                "link": "https://www.facebook.com/photo.php?fbid=708517092493915&set=a.524495047562788.122563.100000068932205&type=1&relevant_count=1",
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/100000068932205/posts/708517475827210"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/100000068932205/posts/708517475827210"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "photo",
+                "status_type": "added_photos",
+                "object_id": "708517092493915",
+                "created_time": "2013-12-19T15:43:49+0000",
+                "updated_time": "2013-12-19T17:32:07+0000",
+                "likes": {
+                    "data": [
+                        {
+                            "id": "100004309264102",
+                            "name": "Mary Martin Doukakis"
+                        },
+                        {
+                            "id": "100004725612363",
+                            "name": "Stephanie Gallegos"
+                        },
+                        {
+                            "id": "535612964",
+                            "name": "Shannon Adam Saiz"
+                        },
+                        {
+                            "id": "616823365",
+                            "name": "Cinnamon Holmes"
+                        },
+                        {
+                            "id": "656295078",
+                            "name": "Phil Garcia"
+                        },
+                        {
+                            "id": "100000802685187",
+                            "name": "Doris Turner"
+                        },
+                        {
+                            "id": "100004207240046",
+                            "name": "Suzanne Jacquez"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MTAwMDA0MjA3MjQwMDQ2",
+                            "before": "MTAwMDA0MzA5MjY0MTAy"
+                        }
+                    }
+                },
+                "comments": {
+                    "data": [
+                        {
+                            "id": "708517092493915_2370726",
+                            "from": {
+                                "name": "Doris Turner",
+                                "id": "100000802685187"
+                            },
+                            "message": "thanks for sharing my thoughts exactly",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T15:47:08+0000",
+                            "like_count": 2,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "708517092493915_2370861",
+                            "from": {
+                                "name": "Stephanie Gallegos",
+                                "id": "100004725612363"
+                            },
+                            "message": "You know I work for a grocery store and I tell everyone Merry Christmas and I haven't had any problems yet. As a matter of fact Iv had people tell me thank you;) thank god!!!!",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T17:08:28+0000",
+                            "like_count": 2,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "708517092493915_2370900",
+                            "from": {
+                                "name": "Mary Martin Doukakis",
+                                "id": "100004309264102"
+                            },
+                            "message": "Exactly Dee!",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T17:32:07+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "Mw==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            },
+            {
+                "id": "100000148428093_773773605970913",
+                "from": {
+                    "name": "Faye Melancon",
+                    "id": "100000148428093"
+                },
+                "story": "Faye Melancon added 2 new photos.",
+                "story_tags": {
+                    "0": [
+                        {
+                            "id": "100000148428093",
+                            "name": "Faye Melancon",
+                            "offset": 0,
+                            "length": 13,
+                            "type": "user"
+                        }
+                    ]
+                },
+                "picture": "https://fbcdn-photos-d-a.akamaihd.net/hphotos-ak-prn2/1526726_773805289301078_954650968_s.jpg",
+                "link": "https://www.facebook.com/photo.php?fbid=773805289301078&set=a.196344200380526.58524.100000148428093&type=1&relevant_count=2",
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yx/r/og8V99JVf8G.gif",
+                "privacy": {
+                    "value": ""
+                },
+                "type": "photo",
+                "status_type": "added_photos",
+                "object_id": "773805289301078",
+                "application": {
+                    "name": "Facebook for Android",
+                    "namespace": "fbandroid",
+                    "id": "350685531728"
+                },
+                "created_time": "2013-12-19T15:36:51+0000",
+                "updated_time": "2013-12-19T15:36:51+0000"
+            },
+            {
+                "id": "1793019089_10200311395986198",
+                "from": {
+                    "name": "Joselle Pena",
+                    "id": "1793019089"
+                },
+                "message": "On the road again",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/1793019089/posts/10200311395986198"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/1793019089/posts/10200311395986198"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "status",
+                "status_type": "mobile_status_update",
+                "application": {
+                    "name": "Facebook for Android",
+                    "namespace": "fbandroid",
+                    "id": "350685531728"
+                },
+                "created_time": "2013-12-19T15:35:46+0000",
+                "updated_time": "2013-12-19T16:26:12+0000",
+                "likes": {
+                    "data": [
+                        {
+                            "id": "100002638561679",
+                            "name": "Susa Herrera"
+                        },
+                        {
+                            "id": "100002377596472",
+                            "name": "Diane Ortiz"
+                        },
+                        {
+                            "id": "100001069264781",
+                            "name": "Ruth Sierra"
+                        },
+                        {
+                            "id": "1457986366",
+                            "name": "Ruth Carmona"
+                        },
+                        {
+                            "id": "1404990265",
+                            "name": "Roberta O'Neil"
+                        },
+                        {
+                            "id": "100000068932205",
+                            "name": "Dee Aguilar"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MTAwMDAwMDY4OTMyMjA1",
+                            "before": "MTAwMDAyNjM4NTYxNjc5"
+                        }
+                    }
+                },
+                "comments": {
+                    "data": [
+                        {
+                            "id": "10200311395986198_4683668",
+                            "from": {
+                                "name": "Normajean Moore",
+                                "id": "1595871530"
+                            },
+                            "message": "Safe travels!!",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T15:42:24+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "10200311395986198_4683789",
+                            "from": {
+                                "name": "Ruth Sierra",
+                                "id": "100001069264781"
+                            },
+                            "message": "WooHoo Have a great trip with ur family :)",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T16:26:12+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "Mw==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            },
+            {
+                "id": "1503403764_10201119492578454",
+                "from": {
+                    "name": "Tad Anderman",
+                    "id": "1503403764"
+                },
+                "story": "Tad Anderman changed his profile picture.",
+                "story_tags": {
+                    "0": [
+                        {
+                            "id": "1503403764",
+                            "name": "Tad Anderman",
+                            "offset": 0,
+                            "length": 12,
+                            "type": "user"
+                        }
+                    ]
+                },
+                "picture": "https://fbcdn-photos-b-a.akamaihd.net/hphotos-ak-prn1/46968_10200585311384258_2103797006_s.jpg",
+                "link": "https://www.facebook.com/photo.php?fbid=10200585311384258&set=a.1370081821101.2049130.1503403764&type=1&relevant_count=1",
+                "icon": "https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif",
+                "actions": [
+                    {
+                        "name": "Comment",
+                        "link": "https://www.facebook.com/1503403764/posts/10201119492578454"
+                    },
+                    {
+                        "name": "Like",
+                        "link": "https://www.facebook.com/1503403764/posts/10201119492578454"
+                    }
+                ],
+                "privacy": {
+                    "value": ""
+                },
+                "type": "photo",
+                "object_id": "10200585311384258",
+                "application": {
+                    "name": "Photos",
+                    "id": "2305272732"
+                },
+                "created_time": "2013-12-19T15:30:33+0000",
+                "updated_time": "2013-12-19T15:52:44+0000",
+                "likes": {
+                    "data": [
+                        {
+                            "id": "100002671507079",
+                            "name": "Anderson Peynetsa"
+                        },
+                        {
+                            "id": "100005397455047",
+                            "name": "Vern Begaye"
+                        },
+                        {
+                            "id": "862925396",
+                            "name": "Sabri Sansoy"
+                        },
+                        {
+                            "id": "100003024661364",
+                            "name": "Kee Yazzie Jr."
+                        },
+                        {
+                            "id": "100003930167773",
+                            "name": "Craig Agoodie"
+                        },
+                        {
+                            "id": "100000408844298",
+                            "name": "Ken Williams"
+                        },
+                        {
+                            "id": "100005130004189",
+                            "name": "Terry Towne"
+                        },
+                        {
+                            "id": "1344793185",
+                            "name": "Carla Padilla"
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "MTM0NDc5MzE4NQ==",
+                            "before": "MTAwMDAyNjcxNTA3MDc5"
+                        }
+                    }
+                },
+                "comments": {
+                    "data": [
+                        {
+                            "id": "10200585311384258_60554106",
+                            "from": {
+                                "name": "Craig Agoodie",
+                                "id": "100003930167773"
+                            },
+                            "message": "Nice lapidary work.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T15:38:18+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        },
+                        {
+                            "id": "10200585311384258_60554127",
+                            "from": {
+                                "name": "Vern Begaye",
+                                "id": "100005397455047"
+                            },
+                            "message": "Cool.",
+                            "can_remove": false,
+                            "created_time": "2013-12-19T15:52:44+0000",
+                            "like_count": 0,
+                            "user_likes": false
+                        }
+                    ],
+                    "paging": {
+                        "cursors": {
+                            "after": "Mg==",
+                            "before": "MQ=="
+                        }
+                    }
+                }
+            }
+        ],
+        "paging": {
+            "previous": "https://graph.facebook.com/862925396/home?limit=25&since=1387476526",
+            "next": "https://graph.facebook.com/862925396/home?limit=25&until=1387467032"
+        }
+    }
+}
